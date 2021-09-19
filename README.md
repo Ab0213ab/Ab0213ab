@@ -6,5 +6,5 @@ new development techniques.
   
  <hr>
 
-I have not collaberated on any projects with anyone outside my cohort college classes yet. However, if you happen to stumble upon my repositroy I
+I have not collaberated on any projects with anyone outside my cohort college classes yet, however, if you happen to stumble upon my repositroy I
 would welcome any advice. Perhaps we will work together in the future, thank you for stopping by.</h3>
