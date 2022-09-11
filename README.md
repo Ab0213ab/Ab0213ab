@@ -10,7 +10,7 @@
 <h3>I'm using GitHub not just as a tool to collaberate or for version control, but also as a space to save projects/school assignments of which I am proud. This helps me to track and showcase my progression as I learn new development techniques.
   
 <h2>About Me</h2>
-  <h4>I'm from Orlando, Florida where I work for the mouse.</h4>
+  <h4><li>I'm from Orlando, Florida where I work for the mouse.<li></h4>
   <h4>My favorite language is Java, but I want to learn Malbolge for the insanity of it.</h4>
   <h4>I'm currently searching for my first developer role and I'm overjoyed just to be able to type that statement.</h4>
   <h4>I've been street-style skateboarding for over 20 years.</h4>
