@@ -1,6 +1,6 @@
 <h3>Hi friends. My name is Andrew B. Schaefer and I am a Back-End leaning, Full-Stack Software Engineer with a passion for progression.</h3> 
 
-<h3>I'm using GitHub not just as a tool to collaberate or version control, but also as a space to save projects/school assignments of which I am proud. This helps me to track and showcase my progression as I learn new development techniques. 
+<h3>I'm using GitHub not just as a tool to collaberate or for version control, but also as a space to save projects/school assignments of which I am proud. This helps me to track and showcase my progression as I learn new development techniques. 
   
  <hr>
 
