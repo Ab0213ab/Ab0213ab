@@ -1,5 +1,4 @@
-<h1>Ab0213ab/README.md</h1>
-<h2>Hi there. My name is Andrew B. Schaefer and I am a B.S. in Software Development graduate from <a href="https://www.bellevue.edu/?ab=b" target="_blank">Bellevue University</a>.</h2> :grin:
+<h2>Hi friends. My name is Andrew B. Schaefer and I am a Back-End leaning, Full-Stack Software Engineer with a passion for growth.</h2> :grin:
 
 <h3>I am using GitHub as not just a tool to collaberate, but also as a space to save programming projects and school assignments of which I am proud in order to track/showcase my progression as I learn new development techniques. 
   
