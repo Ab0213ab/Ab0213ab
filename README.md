@@ -2,7 +2,7 @@
   <img src="programmer.png" height= "150" width="150"/>
 </div>
 
-<h2 align="center">Hi friends.</h2> 
+<h2 align="center">Hi, friends.</h2> 
 
 
 <h3>My name is Andrew B. Schaefer and I am a Back-End leaning, Full-Stack Software Engineer with a passion for progression.</h3> 
