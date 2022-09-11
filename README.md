@@ -11,6 +11,11 @@
   
 <h2>About Me</h2>
   <h4>I'm from Orlando, Florida where I work for the mouse.</h4>
+  <h4>My favorite language is Java, but I want to learn Malbolge for the insanity of it.</h4>
+  <h4>I'm currently searching for my first developer role and I'm overjoyed just to be able to type that statement.</h4>
+  <h4>I've been street-style skateboarding for over 20 years.</h4>
+  <h4>I used to be a Flight Attendant, so I've travelled over 2 million miles.</h4>
+  <h4>I love pups! I have a three-year-old Havanese named Ollie who loves skateboarding, too.</h4>
   
 <hr>
 
