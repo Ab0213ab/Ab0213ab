@@ -18,8 +18,9 @@
 <hr>
 
 <h2>Contact Me</h2>
-  Email: [Abs233abs@gmail.com](Abs233abs@gmail.com)
-  LinkedIn: [www.linkedin.com/in/andrewbschaefer/](https://www.linkedin.com/in/andrewbschaefer/)
+LinkedIn: [www.linkedin.com/in/andrewbschaefer/](https://www.linkedin.com/in/andrewbschaefer/)
+
+Email: [Abs233abs@gmail.com](Abs233abs@gmail.com)
   
  <hr>
 
