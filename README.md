@@ -10,6 +10,7 @@
 <h3>I'm using GitHub not just as a tool to collaberate or for version control, but also as a space to save projects/school assignments of which I am proud. This helps me to track and showcase my progression as I learn new development techniques.
   
 <h2>About Me</h2>
+  <h4>I'm from Orlando, Florida where I work for the mouse.</h4>
   
 <hr>
 
