@@ -1,8 +1,8 @@
-<h3>Hi friends.</h3> 
-
 <div id="header" align="center">
   <img src="programmer.png" width="100"/>
 </div>
+
+<h3>Hi friends.</h3> 
 
 
 <h3>My name is Andrew B. Schaefer and I am a Back-End leaning, Full-Stack Software Engineer with a passion for progression.</h3> 
