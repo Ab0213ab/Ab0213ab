@@ -18,5 +18,9 @@
 <hr>
 
 <h2>Contact Me</h2>
+  <h4><li>Email: [Abs233abs@gmail.com](Abs233abs@gmail.com)</li></h4>
+  <h4><li>LinkedIn: [www.linkedin.com/in/andrewbschaefer/](https://www.linkedin.com/in/andrewbschaefer/)</li></h4>
+  
+ <hr>
 
 <h3>If you happen to stumble upon my repositories, I would welcome any advice or enhancements for any of the code you see. Perhaps we will work together in the future, thanks for stopping by.</h3>
