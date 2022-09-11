@@ -18,8 +18,8 @@
 <hr>
 
 <h2>Contact Me</h2>
-  <h4>Email: [Abs233abs@gmail.com](Abs233abs@gmail.com)</h4>
-  <h4>LinkedIn: [www.linkedin.com/in/andrewbschaefer/](https://www.linkedin.com/in/andrewbschaefer/)</h4>
+  Email: [Abs233abs@gmail.com](Abs233abs@gmail.com)
+  LinkedIn: [www.linkedin.com/in/andrewbschaefer/](https://www.linkedin.com/in/andrewbschaefer/)
   
  <hr>
 
