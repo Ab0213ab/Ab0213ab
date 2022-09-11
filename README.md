@@ -11,10 +11,10 @@
   
 <h2>About Me</h2>
   <h4><li>I'm from Orlando, Florida where I work for the mouse.</li></h4>
-  <h4><li>My favorite language is Java, but I want to learn Malbolge simply for the challenge.</li></h4>
+  <h4><li>My favorite language is Java, but I want to learn Malbolge because it has been labled the most difficult programming language to learn.</li></h4>
   <h4><li>I'm currently searching for my first developer role and I'm overjoyed just to be able to type that statement.</li></h4>
   <h4><li>I've been street-style skateboarding for over 20 years.</li></h4>
-  <h4><li>I used to be a Flight Attendant, so I've travelled over 2 million miles.</li></h4>
+  <h4><li>I used to be a Flight Attendant, so I've traveled over 2 million miles.</li></h4>
   <h4><li>I love pups! I have a three-year-old Havanese named Ollie who loves skateboarding, too.</li></h4>
   
 <hr>
