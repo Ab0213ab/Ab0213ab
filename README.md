@@ -1,7 +1,5 @@
 <h3>Hi friends.</h3> 
 
-![ScreenShot](/programmer.png)
-
 <div id="header" align="center">
   <img src="programmer.png" width="100"/>
 </div>
