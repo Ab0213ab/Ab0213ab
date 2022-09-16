@@ -5,7 +5,7 @@
 <h2 align="center">Hi, friends.</h2> 
 
 
-<h3>My name is Andrew B. Schaefer and I'm a Full-Stack Software Engineer with a passion for growth.</h3> 
+<h3>My name is Andrew B. Schaefer and I'm a (Back-end leaning) Full-Stack Software Engineer with a passion for growth.</h3> 
 
 <h3>I'm using GitHub not just as a tool to collaborate or for version control, but also as a space to save projects/school assignments of which I am proud. This helps me to track and showcase my progression as I learn new development techniques.
   
