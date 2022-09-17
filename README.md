@@ -12,7 +12,7 @@
 <h2>About Me</h2>
   <h4><li>I'm currently searching for my first developer role.</li></h4>
   <h4><li>I live in Orlando, Florida where I work for the mouse.</li></h4>
-  <h4><li>My list of things to learn next includes: Ruby, iOS Mobile Development with Swift, and basic neural networks.</h4></li>
+  <h4><li>My list of things to learn next includes: Ruby, iOS Mobile Development with Swift, and database stored procedures.</h4></li>
   <h4><li>Fun Facts: I have been street style skateboarding for 20+ years and I have flown over 2 million commercial airline miles</h4></li>
   
 <hr>
