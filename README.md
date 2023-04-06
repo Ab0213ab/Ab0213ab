@@ -12,7 +12,7 @@
 <h2>About Me</h2>
   <h4><li>I'm a Software Developer Intern searching for my first full-time developer role.</li></h4>
   <h4><li>I live in Orlando, Florida where I work for "the mouse".</li></h4>
-  <h4><li>My list of things to learn next includes: Beginner iOS Mobile Development and database stored procedures.</h4></li>
+  <h4><li>My list of things to learn next includes: Basic React usage and beginner iOS Mobile Development.</h4></li>
   <h4><li>Fun Facts: I have been street style skateboarding for 20+ years and I have flown over 2 million commercial airline miles</h4></li>
   
 <hr>
