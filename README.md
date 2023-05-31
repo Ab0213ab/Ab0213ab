@@ -26,4 +26,4 @@ Email:
   
  <hr>
 
-<h3>If you happen to stumble upon my repositories, I would welcome any advice or enhancements for any of the code you see. Perhaps we will work together in the future, thanks for stopping by.</h3>
+<h3>If you happen to stumble upon my repositories, I would welcome any advice or enhancements for the code you see. Perhaps we will work together in the future, thanks for stopping by.</h3>
