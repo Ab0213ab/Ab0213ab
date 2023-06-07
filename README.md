@@ -12,7 +12,8 @@
 <h2>About Me</h2>
   <h4><li>I'm a <a href="https://helpx.adobe.com/coldfusion/developing-applications/the-cfml-programming-language.html">ColdFusion</a> Software Developer at <a href="mind-over-data.com">Mind Over Data</a>.</li></h4>
   <h4><li>I live with my wife and pup in sunny Orlando, Florida.</li></h4>
-  <h4><li>I have been street-style skateboarding for over 25 years and I have flown over 2 million commercial airline miles</h4></li>
+  <h4><li>I have been street-style skateboarding for over 25 years.</li></h4>
+  <h4><li>I have flown over 2 million commercial airline miles</h4></li>
   
 <hr>
 
