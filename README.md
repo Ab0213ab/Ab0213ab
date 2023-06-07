@@ -10,7 +10,7 @@
 <h3>I'm using GitHub not just as a tool to collaborate or for version control, but also as a space to save projects/school assignments of which I am proud. This helps me to track and showcase my progression as I learn new development techniques.
   
 <h2>About Me</h2>
-  <h4><li>I'm a ColdFusion Software Developer at <a href="mind-over-data.com">Mind Over Data</a>.</li></h4>
+  <h4><li>I'm a <a href="https://helpx.adobe.com/coldfusion/developing-applications/the-cfml-programming-language.html">ColdFusion</a> Software Developer at <a href="mind-over-data.com">Mind Over Data</a>.</li></h4>
   <h4><li>I live with my wife and pup in sunny Orlando, Florida.</li></h4>
   <h4><li>I have been street-style skateboarding for over 25 years and I have flown over 2 million commercial airline miles</h4></li>
   
