@@ -10,11 +10,11 @@
 <h3>I'm using GitHub not just as a tool to collaborate or for version control, but also as a space to save projects/school assignments of which I am proud. This helps me to track and showcase my progression as I learn new development techniques.
   
 <h2>About Me</h2>
-  <h4><li>I'm a <a href="https://helpx.adobe.com/coldfusion/developing-applications/the-cfml-programming-language.html" target="blank" >ColdFusion</a> Software Developer at <a href="mind-over-data.com">Mind Over Data</a>.</li></h4>
+  <h4><li>I'm a <a href="https://helpx.adobe.com/coldfusion/developing-applications/the-cfml-programming-language.html">ColdFusion</a> Software Developer at <a href="mind-over-data.com">Mind Over Data</a>.</li></h4>
   <h4><li>I graduated summa cum laude from <a href="https://www.bellevue.edu/">Bellevue University</a> with a B.S. in Software Development.</li></h4>
   <h4><li>I live with my wife and <a href="https://www.akc.org/dog-breeds/havanese/">Havanese<a/> pup in sunny <a href="https://www.orlando.gov/Home">Orlando, Florida</a>.</li></h4>
   <h5>Fun Facts:</h5>
-  <h4><li>I have been street-style skateboarding for over 25 years.</li></h4>
+  <h4><li>I have been street-style <a href="https://olympics.com/en/sports/skateboarding/">skateboarding</a> for over 25 years.</li></h4>
   <h4><li>I have flown over 2 million commercial airline miles.</h4></li>
   
 <hr>
