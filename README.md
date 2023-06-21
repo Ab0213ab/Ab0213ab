@@ -23,9 +23,6 @@
 
 LinkedIn: 
 [www.linkedin.com/in/andrewbschaefer/](https://www.linkedin.com/in/andrewbschaefer/)
-
-Email: 
-[Abs233abs@gmail.com](Abs233abs@gmail.com)
   
  <hr>
 
