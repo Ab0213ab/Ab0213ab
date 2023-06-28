@@ -14,7 +14,7 @@
   <h4><li>I graduated summa cum laude from <a href="https://www.bellevue.edu/">Bellevue University</a> with a B.S. in Software Development.</li></h4>
   <h4><li>I live in the sunshine state with my wife and <a href="https://www.akc.org/dog-breeds/havanese/">Havanese<a/> pup.</li></h4>
   <h5>Fun Facts:</h5>
-  <h4><li>I have been<a href="https://www.britannica.com/sports/street-style-skateboarding/"> street-style </a>skateboarding for over 25 years.</li></h4>
+  <h4><li>I have been<a href="https://en.wikipedia.org/wiki/Street_skateboarding/"> street-style </a>skateboarding for over 25 years.</li></h4>
   <h4><li>I have flown over 2 million commercial airline miles.</h4></li>
   
 <hr>
