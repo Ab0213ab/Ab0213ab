@@ -10,7 +10,7 @@
 <h3>I'm using GitHub not just as a tool to collaborate or for version control, but also as a space to save projects/school assignments of which I am proud. This helps me to track and showcase my progression as I learn new development techniques.
   
 <h2>About Me</h2>
-  <h4><li>I'm a <a href="https://helpx.adobe.com/coldfusion/developing-applications/the-cfml-programming-language.html">ColdFusion</a> Software Developer at <a href="mind-over-data.com">Mind Over Data</a>, with additional contract development being done at <a href="https://www.quantumedgetechnology.com/">Quantum Edge Technology</a> (https://www.github.com/absqe & https://www.github.com/qedgeabs).</li></h4>
+  <h4><li>I'm a <a href="https://helpx.adobe.com/coldfusion/developing-applications/the-cfml-programming-language.html">ColdFusion</a> Software Developer at <a href="mind-over-data.com">Mind Over Data</a>, with additional contract development being done at <a href="https://www.quantumedgetechnology.com/">Quantum Edge Technology</a> (github.com/absqe & github.com/qedgeabs).</li></h4>
   <h4><li>I graduated summa cum laude from <a href="https://www.bellevue.edu/">Bellevue University</a> with a B.S. in Software Development.</li></h4>
   <h4><li>I live in the sunshine state with my wife and <a href="https://www.akc.org/dog-breeds/havanese/">Havanese<a/> pup.</li></h4>
   <h5>Fun Facts:</h5>
