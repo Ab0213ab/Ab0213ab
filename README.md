@@ -23,8 +23,8 @@
 
 LinkedIn: 
 [www.linkedin.com/in/andrewbschaefer/](https://www.linkedin.com/in/andrewbschaefer/)
-Other GitHub: 
-https://www.github.com/absqe | https://www.github.com/qedgeabs
+Other GitHub (Used professionally from Apr23-Oct24): 
+https://www.github.com/absqe
   
  <hr>
 
