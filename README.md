@@ -22,8 +22,8 @@
 <h2>Contact Me</h2>
 
 LinkedIn: 
-[www.linkedin.com/in/andrewbschaefer/](https://www.linkedin.com/in/andrewbschaefer/)
-Other GitHub (Used professionally from Apr23-Oct24): 
+[www.linkedin.com/in/andrewbschaefer/](https://www.linkedin.com/in/andrewbschaefer/) | 
+Other GitHub (Used Apr23-Oct24): 
 https://www.github.com/absqe
   
  <hr>
