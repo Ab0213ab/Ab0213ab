@@ -7,7 +7,7 @@
 
 <h3>My name is Andrew B. Schaefer and I'm an adaptable and highly communicative Software Engineer with a passion for growth.</h3> 
 
-<h3>I'm using GitHub not just as a tool to collaborate or for version control, but also as a space to save early career projects and even school assignments to track my progression as I become a better developer.
+<h3>I'm using GitHub not just for version control; I'm also using it as a way to track my progress from academic and early career on through to any current personal projects. So, it's all here: the good, the bad, and the ugly.</h3>
   
 <h2>About Me</h2>
   <h4><li>I'm a Software Engineer at <a href="publix.com">Publix Super Markets</a>.</li></h4>
