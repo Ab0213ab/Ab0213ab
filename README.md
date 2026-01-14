@@ -14,7 +14,7 @@
   <h4><li>I graduated summa cum laude from <a href="https://www.bellevue.edu/">Bellevue University</a> with a <a href="https://www.parchment.com/u/award/108b21a60b0f16efaf223a58bbd8a4d7">B.S. in Software Development</a>.</li></h4>
   <h4><li>I live in the sunshine state with my wife and <a href="https://www.akc.org/dog-breeds/havanese/">Havanese<a/> pup.</li></h4>
   <h4><li>I have been<a href="https://en.wikipedia.org/wiki/Street_skateboarding"> street-style </a>skateboarding for over 25 years.</li></h4>
-  <h4><li>Before I became a Software Engineer, I was a flight attendant for many years, so I have flown over 2 million commercial airline miles.</h4></li>
+  <h4><li>Due to my previous Flight Attendant career, I have flown over 2 million commercial airline miles.</h4></li>
   
 <hr>
 
