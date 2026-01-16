@@ -5,7 +5,7 @@
 <h2 align="center">Hi, friends.</h2> 
 
 
-<h3>My name is Andrew B. Schaefer and I'm an adaptable and highly communicative Software Engineer with a passion for growth.</h3> 
+<h3>My name is Andrew B. Schaefer and I'm an adaptable Software Engineer with superb communication skills and an unparalleled eagerness to learn</h3> 
 
 <h3>I'm using GitHub for version control as well as to track my progress from academic assignments to professional projects.</h3>
   
