@@ -7,7 +7,7 @@
 
 <h3>My name is Andrew B. Schaefer and I'm an adaptable and highly communicative Software Engineer with a passion for growth.</h3> 
 
-<h3>I'm using GitHub not just for version control; I'm also using it as a way to track my progress from academic and early career on through to any current personal projects.</h3>
+<h3>I'm not using GitHub just for version control; I'm also using it as a way to track my progress from academic assignments to professional projects.</h3>
   
 <h2>About Me</h2>
   <h4><li>I'm a Software Engineer at <a href="https://aquent.com/">Aquent</a>, a global leader in creative staffing solutions.</li></h4>
