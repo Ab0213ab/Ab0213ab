@@ -5,12 +5,12 @@
 <h2 align="center">Hi, friends.</h2> 
 
 
-<h3>My name is Andrew B. Schaefer and I'm an adaptable Software Engineer with superb communication skills and an unparalleled eagerness to learn</h3> 
+<h3>My name is Andrew B. Schaefer and I'm an adaptable software engineer with superb communication skills and an unparalleled eagerness to learn</h3> 
 
 <h3>I'm using GitHub for version control as well as to track my progress from academic assignments to professional projects.</h3>
   
 <h2>About Me</h2>
-  <h4><li>I'm a Software Engineer at <a href="https://aquent.com/">Aquent</a>, a global leader in creative staffing solutions.</li></h4>
+  <h4><li>I'm a software engineer at <a href="https://aquent.com/">Aquent</a>, a global leader in creative staffing solutions.</li></h4>
   <h4><li>I graduated summa cum laude from <a href="https://www.bellevue.edu/">Bellevue University</a> with a <a href="https://www.parchment.com/u/award/108b21a60b0f16efaf223a58bbd8a4d7">B.S. in Software Development</a>.</li></h4>
   <h4><li>I live in the sunshine state with my wife and <a href="https://www.akc.org/dog-breeds/havanese/">Havanese<a/> pup.</li></h4>
   <h4><li>I have been<a href="https://en.wikipedia.org/wiki/Street_skateboarding"> street-style </a>skateboarding for almost 30 years.</li></h4>
