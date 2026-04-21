@@ -5,7 +5,7 @@
 <h2 align="center">Hi, friends.</h2> 
 
 
-<h3>My name is Andrew B. Schaefer and I'm an adaptable software engineer with superb communication skills and an unparalleled eagerness to learn</h3> 
+<h3>My name is Andrew B. Schaefer and I'm an adaptable software engineer with superb communication skills and an unparalleled eagerness to learn.</h3> 
   
 <h2>About Me</h2>
   <h4><li>I'm a software engineer at <a href="https://aquent.com/">Aquent</a>, a global leader in creative staffing solutions.</li></h4>
